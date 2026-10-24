@@ -1,0 +1,19 @@
+Artificial Intelligence Project Notes
+
+Artificial Intelligence (AI) is a field of computer science that develops systems capable of performing tasks that normally require human intelligence.
+
+Machine Learning is a branch of Artificial Intelligence. It allows computers to learn patterns from data and make predictions.
+
+Deep Learning is a subset of Machine Learning that uses multi-layer neural networks.
+
+Natural Language Processing enables computers to process, understand, and generate human language.
+
+Semantic Search identifies information based on meaning rather than exact keyword matches. Sentence Embeddings can represent text as numerical vectors.
+
+Retrieval-Augmented Generation combines information retrieval with language generation. A RAG system retrieves relevant document passages and provides them as context to a language model.
+
+Knowledge Graphs represent entities and relationships as nodes and edges. They help systems understand connections between concepts.
+
+A domain-specific knowledge graph represents relationships within a particular field, such as healthcare, education, or Artificial Intelligence.
+
+A RAG system can combine Semantic Search and a Knowledge Graph to retrieve relevant information and identify relationships between related concepts.
